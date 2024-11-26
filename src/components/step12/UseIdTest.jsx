@@ -21,7 +21,8 @@ function UseIdTest(props) {
 
     return (
         <div>
-            {/* <label htmlFor={id}>이름</label>
+            {/* 이름을 눌러도 id로 연결된다. 라벨이 있는데 누르면 focus로 찍히게 함 
+            <label htmlFor={id}>이름</label>
             <input id={id} ref={inputRef} /> */}
 
             {/* 만약 여러개일 경우 */}
